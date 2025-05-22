@@ -41,3 +41,6 @@ PDF saved for Eiffel Tower.
 PDF saved for red fort .
 PDF saved for Amer fort.
 All the reports ares generated successfully
+![Image](https://github.com/user-attachments/assets/b3d3c101-aa2e-4af8-954f-7f2229866dbc)
+![Image](https://github.com/user-attachments/assets/34e5f8d0-6ab2-4f99-9c2e-0a8df5e2273b)
+![Image](https://github.com/user-attachments/assets/f1dafa62-bfd8-4e62-be5d-06bc4c39d61d)
